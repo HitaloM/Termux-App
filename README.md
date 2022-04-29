@@ -25,6 +25,13 @@ Issue https://github.com/termux/termux-app/issues/1072 needs extra attention.
 
 ***
 
+## Downloads
+
+- [@TermuxCI on Telegram](https://t.me/TermuxCI)
+
+To install these builds available on Telegram you must uninstall Termux from the Play Store or F-Froid.
+It is also necessary that any installed Termux add-on is also uninstalled.
+
 ## Contents
 - [Termux App and Plugins](#Termux-App-and-Plugins)
 - [Installation](#Installation)
